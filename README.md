@@ -1,1 +1,1 @@
-# investment-model-dashboard
+# investment model dashboard
